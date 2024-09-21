@@ -85,10 +85,11 @@ a {
     align-items: center;
 }
 
-.menu .link {
+.category-header:first-child{
     position: relative;
     color: #404bbf;
 }
+
 .menu .link::after {
     position: absolute;
     content: "";
