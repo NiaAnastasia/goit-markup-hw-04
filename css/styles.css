@@ -251,6 +251,10 @@ a {
     fill: #F4F4FD;
 }
 
+.ulist-workers .link:hover .icon {
+    fill:#31d0aa;
+}
+
 .workers {
     background-color: #FFFFFF;
     width: calc((100% - 3 *24 ) / 4);
