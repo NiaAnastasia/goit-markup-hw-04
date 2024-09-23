@@ -94,6 +94,7 @@ a {
     position: absolute;
     content: "";
     background-color: #404bbf;
+    color: #404bbf;
     width: 100%;
     left: 0;
     bottom: -1px;
