@@ -101,6 +101,9 @@ a {
     height: 4px;
     border-radius: 2px;
 }
+.menu .link {
+    color: #404bbf;
+}
 
 
 .menu .link, .address-header .link {
