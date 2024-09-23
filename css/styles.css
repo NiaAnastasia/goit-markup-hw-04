@@ -87,14 +87,12 @@ a {
 
 .category-header .primary{
     position: relative;
-    color: #404bbf;
 }
 
 .category-header .primary::after {
     position: absolute;
     content: "";
     background-color: #404bbf;
-    color: #404bbf;
     width: 100%;
     left: 0;
     bottom: -1px;
