@@ -99,9 +99,7 @@ a {
     height: 4px;
     border-radius: 2px;
 }
-.menu .link {
-    color: #404bbf;
-}
+
 
 
 .menu .link, .address-header .link {
@@ -204,7 +202,9 @@ a {
     color: #404BBF;
 }
 
-
+.menu .link {
+    color: #404bbf;
+}
 .section-two {
     padding: 120px 0;
 }
