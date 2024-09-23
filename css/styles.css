@@ -90,14 +90,14 @@ a {
     color: #404bbf;
 }
 
-.category-header .link::after {
+.category-header .primary::after {
     position: absolute;
     content: "";
+    background-color: #404bbf;
     width: 100%;
     left: 0;
     bottom: -1px;
     height: 4px;
-    background-color: #404bbf;
     border-radius: 2px;
 }
 
@@ -419,7 +419,7 @@ a {
 .page-footer .container .media-container {
     display: block;
 }
-.ulist-media .text {
+.media-container .text {
     font-weight: 500;
     line-height: 1.5;
     color: #FFFFFF;
